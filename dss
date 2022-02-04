@@ -1,0 +1,23 @@
+[33mcommit 2ec2e2e3670b8a7acbf2a440266cc0936b45ad7d[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Author: Camilo <kaiser130@hotmail.com>
+Date:   Fri Feb 4 17:58:58 2022 -0500
+
+    adding new files with new branch called login
+
+[33mcommit f31a8081aa7b476247963f032e6c1cafd2af711f[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Camilo <kaiser130@hotmail.com>
+Date:   Fri Feb 4 17:53:30 2022 -0500
+
+    adding a new file gitignore
+
+[33mcommit eb6dc3e2993e00f22972bdc7b7f3e09fdd8bfc14[m
+Author: Camilo <kaiser130@hotmail.com>
+Date:   Fri Feb 4 17:47:06 2022 -0500
+
+    test
+
+[33mcommit 07ae6daa3bb391888b606b198e759a03448be248[m
+Author: Camilo <kaiser130@hotmail.com>
+Date:   Fri Feb 4 17:40:59 2022 -0500
+
+    mi primer commit
